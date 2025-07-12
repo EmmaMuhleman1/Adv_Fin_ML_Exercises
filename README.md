@@ -63,7 +63,8 @@ Project Organization
     │   ├── models         <- Scripts to train models and then use trained models to make
     │   │   │                 predictions
     │   │   ├── predict_model.py
-    │   │   └── train_model.py
+    │   │   ├── train_model.py
+    │   │   └── crude_oil_xgboost.py  <- XGBoost model for Crude Oil futures
     │   │
     │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
     │       └── visualize.py
